@@ -1,4 +1,4 @@
-alkdmlkasm
+import numpy as np
 
-
-sjfkdsjçfkdsçlkfa
+a = 10
+a =a *2
